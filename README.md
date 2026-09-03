@@ -31,7 +31,7 @@
 <h2 align="left">👩‍💻 About Me</h2>
 
 
-<h3 align="left">📚 I'm currently pursuing Btech. (2022-26) in  Computer Science.<br>👨‍💻 Passionately growing knowledge in field of Full Stack Development.<br>✌️ I believe in  LEARN BY DOING.</h3>
+<h3 align="left">📚 I'm currently pursuing Btech. (2024-28) in  Computer Science.<br>👨‍💻 Passionately growing knowledge in field of Full Stack Development.<br>✌️ I believe in  LEARN BY DOING.</h3>
 
 ###
 <hr>
