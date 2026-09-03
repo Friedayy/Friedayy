@@ -18,9 +18,9 @@
 <h3 align="left">🙋Let's Connect: </h3>
 
 <div align="left">
-  <a href="https://t.me/beboolean"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-amaan-bhat"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"></a>&nbsp;&nbsp;
-  <a href="mailto:beboolean@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"></a>
+  <a href="https://t.me/amaan_bhatt"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-amaan-bhat-856675414"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"></a>&nbsp;&nbsp;
+  <a href="mailto:bhatamaan509@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"></a>
 </div>
 
 
