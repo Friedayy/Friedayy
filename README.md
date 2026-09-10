@@ -19,7 +19,7 @@
 
 <div align="left">
   <a href="https://t.me/amaan_bhatt" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/fredayyy" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/friedayyy" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"></a>&nbsp;&nbsp;
   <a href="mailto:bhatamaan509@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"></a>
 </div>
 
