@@ -75,27 +75,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></div>
 
-###
-<hr>
-<h2 align="left">🔥 Github Stats:</h2>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=msami625&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
-
-  
-</div>
-<hr>
 
 
 
-[![An image of @msami6256's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msami6256)](https://holopin.io/@msami6256)
 
-
-<img src="https://komarev.com/ghpvc/?username=MSami625&style=flat-square&color=grey" alt="m-sami"/>
-
-<!---
-MSami625/MSami625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
