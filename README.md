@@ -10,6 +10,16 @@
 <h2>Hey Everyone 👋</h2>
 
 
+<blockquote>
+  <p><i>“Time, tide, and JavaScript wait for none.”</i></p>
+</blockquote>
+
+<blockquote>
+  <p><i>“Any application that can be written in JavaScript will eventually be written in JavaScript.”</i></p>
+</blockquote>
+
+
+
 
 
 
